@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Formatif app mobile</string>
+    <string name="roche">Rock</string>
+    <string name="papier">Paper</string>
+    <string name="ciseau">Cisors</string>
+    <string name="rose">Pink</string>
+    <string name="title">Translations</string>
+</resources>

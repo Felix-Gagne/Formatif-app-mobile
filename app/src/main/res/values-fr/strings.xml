@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Formatif app mobile</string>
+    <string name="roche">Roche</string>
+    <string name="papier">Papier</string>
+    <string name="ciseau">Ciseau</string>
+    <string name="rose">Rose</string>
+    <string name="title">Traductions</string>
+</resources>
